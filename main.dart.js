@@ -70059,12 +70059,12 @@ s=A.Dy(new A.ko(B.i.od(0.2),B.dS),B.dT,B.xL,j)
 if(k.r)r=A.es(A.lO(A.c([A.nU("Act III : Outro",B.an,B.aj,A.fx().$3$color$fontSize$letterSpacing(B.C,h?48:28,3))],t.u6),3),B.an)
 else r=B.bV
 q=A.f_(j,h?60:20,j)
-if(k.r)p=A.fE(A.es(A.lO(A.c([A.nU("Look for me on the web \ud83d\udc7d",B.d3,B.aN,A.fx().$3$color$fontSize$height(B.y,h?46:20,1.1))],t.u6),1),B.ae),j,j)
+if(k.r)p=A.fE(A.es(A.lO(A.c([A.nU("Look for me on the web \ud83d\udc7d",B.d3,B.aN,A.fx().$3$color$fontSize$height(B.y,h?46:16,1.1))],t.u6),1),B.ae),j,j)
 else p=B.iZ
 o=A.f_(j,h?30:10,j)
 n=k.r?A.es(A.ah2(A.c([A.agg(B.y6,!0,new A.abd(k),"Instagram"),A.agg(B.y7,!0,new A.abe(k),"Twitter"),A.agg(B.y8,!0,new A.abf(k),"GitHub")],t.E),B.aE,B.ci,B.dn,0),B.aU):A.f_(j,j,j)
 m=A.f_(j,h?30:10,j)
-if(k.r)l=A.fE(A.es(A.lO(A.c([A.nU("Aight imma bounce, peace out \u270c\ufe0f",B.d3,B.aN,A.fx().$3$color$fontSize$height(B.y,h?46:20,1.1))],t.u6),1),B.ae),j,j)
+if(k.r)l=A.fE(A.es(A.lO(A.c([A.nU("Aight imma bounce, peace out \u270c\ufe0f",B.d3,B.aN,A.fx().$3$color$fontSize$height(B.y,h?46:16,1.1))],t.u6),1),B.ae),j,j)
 else l=B.iZ
 return new A.qR(new A.abg(k),A.m7(j,A.fE(A.m4(A.c([r,q,p,o,n,m,l],t.E),B.av,B.ci),j,j),B.J,j,j,new A.e3(B.i,s,j,j,j,j,B.aC),j,g,j,B.h7,j,j,1/0),B.Qz)},
 tn(){var s=0,r=A.q(t.H),q=this,p
