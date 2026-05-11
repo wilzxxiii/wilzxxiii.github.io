@@ -69981,13 +69981,13 @@ s=A.Dy(new A.ko(B.i.od(0.2),B.dS),B.dT,B.xJ,j)
 if(k.d)r=A.es(A.lO(A.c([A.nU("Act I : Intro",B.an,B.aj,A.fx().$3$color$fontSize$letterSpacing(B.C,h?48:28,3))],t.u6),3),B.an)
 else r=B.bV
 q=A.f_(j,h?60:20,j)
-if(k.d)p=A.fE(A.es(A.lO(A.c([A.nU("I build web apps that aren't needed because I have nothing to do.",B.kM,B.aN,A.fx().$3$color$fontSize$height(B.y,h?46:20,1.1))],t.u6),1),B.ae),j,j)
+if(k.d)p=A.fE(A.es(A.lO(A.c([A.nU("I build web apps that aren't needed because I have nothing to do.",B.kM,B.aN,A.fx().$3$color$fontSize$height(B.y,h?46:16,1.1))],t.u6),1),B.ae),j,j)
 else p=B.bV
 o=A.f_(j,h?30:10,j)
-if(k.d)n=A.fE(A.es(A.lO(A.c([A.nU("I trade cryptocurrencies that aren't worth it.",B.d3,B.aN,A.fx().$3$color$fontSize$fontWeight(B.Aj,h?46:20,B.aF))],t.u6),1),B.Bb),j,j)
+if(k.d)n=A.fE(A.es(A.lO(A.c([A.nU("I trade cryptocurrencies that aren't worth it.",B.d3,B.aN,A.fx().$3$color$fontSize$fontWeight(B.Aj,h?46:16,B.aF))],t.u6),1),B.Bb),j,j)
 else n=B.KJ
 m=A.f_(j,h?30:20,j)
-if(k.d)l=A.fE(A.es(A.lO(A.c([A.nU("Therefore I am a degenerate, but hey I can code too.",B.Bd,B.aN,A.fx().$3$color$fontSize$fontWeight(B.l,h?46:20,B.aF))],t.u6),1),B.cd),j,j)
+if(k.d)l=A.fE(A.es(A.lO(A.c([A.nU("Therefore I am a degenerate, but hey I can code too.",B.Bd,B.aN,A.fx().$3$color$fontSize$fontWeight(B.l,h?46:16,B.aF))],t.u6),1),B.cd),j,j)
 else l=B.KI
 return new A.qR(new A.aaj(k),A.es(A.m7(j,A.fE(A.m4(A.c([r,q,p,o,n,m,l],t.E),B.av,B.ci),j,j),B.J,j,j,new A.e3(B.i,s,j,j,j,j,B.aC),j,g,j,B.h7,j,j,1/0),B.d3),B.QA)}}
 A.aaj.prototype={
@@ -70022,7 +70022,7 @@ R(a){var s,r,q,p,o,n=this,m=null,l=A.bZ(a,m,t.w).w.a,k=l.a>900,j=k?l.b*0.95:m,i=
 if(n.d)s=A.es(A.lO(A.c([A.nU("Act II : Made",B.kM,B.aj,A.fx().$3$color$fontSize$letterSpacing(B.C,k?48:28,3))],t.u6),3),B.an)
 else s=B.bV
 r=A.f_(m,k?60:20,m)
-if(n.d)q=A.fE(A.es(A.qC("Whatever, here they are.",A.fx().$3$color$fontSize$height(B.y,k?46:20,1.1),B.aN),B.aU),m,m)
+if(n.d)q=A.fE(A.es(A.qC("Whatever, here they are.",A.fx().$3$color$fontSize$height(B.y,k?46:16,1.1),B.aN),B.aU),m,m)
 else q=B.iZ
 if(n.d){p=n.e
 o=A.Y(p).h("a4<1,dY>")
