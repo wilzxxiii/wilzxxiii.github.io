@@ -77882,7 +77882,7 @@ o.toString
 o=A.oH(o,A.eZ().$2$fontSize$fontWeight(q?28:16,B.aM),r)
 s=a.i(0,"description")
 s.toString
-return A.dE(new A.wu(!1,new A.agO(this.a,a),r,r,r,n,r,r,!1,r,r,A.kW(A.c([o,B.wZ,A.oH(s,A.lR(r,r,B.E,r,r,r,r,r,r,r,r,q?18:12,r,r,r,r,1.4,!0,r,r,r,r,r,r,r,r),r)],t.F),B.aJ,B.aP),r),r,p)},
+return A.dE(new A.wu(!1,new A.agO(this.a,a),r,r,r,n,r,r,!1,r,r,A.kW(A.c([o,B.wZ,A.oH(s,A.lR(r,r,B.E,r,r,r,r,r,r,r,r,q?16:10,r,r,r,r,1.4,!0,r,r,r,r,r,r,r,r),r)],t.F),B.aJ,B.aP),r),r,p)},
 $S:524}
 A.agO.prototype={
 $0(){var s=this.b.i(0,"url")
