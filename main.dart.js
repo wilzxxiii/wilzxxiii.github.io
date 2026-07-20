@@ -77879,10 +77879,10 @@ $1(a){var s,r=null,q=this.b,p=q?420:1/0,o=q?420:1/0,n=q?200:150
 n=A.arg(r,r,B.x,r,r,r,8,r,r,new A.M(o,n),B.j,r,r,B.Ch,r,new A.dm(A.pU(16),B.w),r,r,r,r,r)
 o=a.i(0,"name")
 o.toString
-o=A.oH(o,A.eZ().$2$fontSize$fontWeight(q?32:26,B.aM),r)
+o=A.oH(o,A.eZ().$2$fontSize$fontWeight(q?28:16,B.aM),r)
 s=a.i(0,"description")
 s.toString
-return A.dE(new A.wu(!1,new A.agO(this.a,a),r,r,r,n,r,r,!1,r,r,A.kW(A.c([o,B.wZ,A.oH(s,A.lR(r,r,B.E,r,r,r,r,r,r,r,r,q?17:15.5,r,r,r,r,1.4,!0,r,r,r,r,r,r,r,r),r)],t.F),B.aJ,B.aP),r),r,p)},
+return A.dE(new A.wu(!1,new A.agO(this.a,a),r,r,r,n,r,r,!1,r,r,A.kW(A.c([o,B.wZ,A.oH(s,A.lR(r,r,B.E,r,r,r,r,r,r,r,r,q?18:12,r,r,r,r,1.4,!0,r,r,r,r,r,r,r,r),r)],t.F),B.aJ,B.aP),r),r,p)},
 $S:524}
 A.agO.prototype={
 $0(){var s=this.b.i(0,"url")
