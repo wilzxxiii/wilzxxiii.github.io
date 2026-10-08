@@ -12,8 +12,14 @@
   <link rel="icon" type="image/png" href="favicon.png"/>
 
   <!-- Import Rock Salt Font -->
-  <link href="https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap" rel="stylesheet">
-
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lavishly+Yours&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lacquer&display=swap" rel="stylesheet">
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
   <style>
     body {
       margin: 0;
@@ -27,7 +33,7 @@
       top: 0; left: 0;
       width: 100vw;
       height: 100vh;
-      background: #0A0A0A;
+      background: #5b5b5b;
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -36,20 +42,23 @@
       transition: opacity 0.8s ease-out;
     }
 
+ 
+
+
     .main-text {
-      font-family: 'Rock Salt', cursive;
+      font-family: 'Lavishly Yours', cursive;
       font-size: 72px;
-      color: #FF00FF;
-      text-shadow: 
+      color: #FFFFFF;
+      /* text-shadow: 
         5px 5px 0 #00FFFF,
-        -4px -4px 0 #FFFF00;
+        -4px -4px 0 #FFFF00; */
       letter-spacing: 6px;
       margin-bottom: 20px;
     }
 
     .sub-text {
-      font-family: 'Rock Salt', cursive;
-      font-size: 34px;
+      font-family: 'Lavishly Yours', cursive;
+      font-size: 36px;
       color: #FFFFFF;
       opacity: 0.85;
       margin-top: 10px;
@@ -57,9 +66,9 @@
 
     .status {
       margin-top: 60px;
-      font-family: 'Rock Salt', cursive;
-      font-size: 22px;
-      color: #00FFAA;
+      font-family: 'Lacquer', system-ui;
+      font-size: 74px;
+      color: #FFFFFF;
       animation: pulse 1.8s infinite;
     }
 
@@ -71,10 +80,9 @@
 </head>
 <body>
   <div id="loading">
-    <div class="main-text">Wait homie</div>
-    <div class="sub-text">loading this sh*t...</div>
-    
-    <div class="status">Chill 🥶</div>
+    <div class="main-text animate__animated animate__rotateInDownLeft">Wait a minute</div>
+    <div class="sub-text animate__animated animate__rotateInDownRight">Painting my ...</div>
+    <div class="status animate__animated animate__bounce ">Masterpiece?</div>
   </div>
 
   <script src="flutter_bootstrap.js" async></script>

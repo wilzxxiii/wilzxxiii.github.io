@@ -78226,7 +78226,7 @@ p=t.F
 r=A.dP(A.x3(o,A.Lh(B.R,A.c([s,A.aoe(8,A.h7(o,q,B.B,o,o,new A.dL(B.x,o,o,r,o,o,B.aG),o,o,o,B.Cs,o,o,o),o,o,o,o,o,o)],p),B.fJ),B.as,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,this.gaay(),o,o,o,o,o,o,!1,B.cw),B.eK)
 s=A.dP(A.oF("Hi, I'm",A.eZ().$2$color$fontSize(B.x,m?42:32),o),B.bN)
 q=A.dP(A.oF("Wilbert Matte Garcia",A.eZ().$4$color$fontSize$fontWeight$height(B.l,m?80:20,B.aN,1.05),B.aU),B.lz)
-return A.h7(o,A.e8(A.kV(A.c([r,B.fH,s,B.fH,q,B.cI,A.dP(A.oF("Flutter Developer. Graphic Designer. Degenerate.",A.eZ().$3$color$fontSize$letterSpacing(B.C,m?16:8,2),o),B.eJ)],p),B.ay,B.cq),o,o),B.B,o,o,new A.dL(B.j,l,o,o,o,o,B.aG),o,k,o,o,o,o,1/0)}}
+return A.h7(o,A.e8(A.kV(A.c([r,B.fH,s,B.fH,q,B.cI,A.dP(A.oF("Flutter Developer. Graphic Designer. Nonchalant. Degenerate.",A.eZ().$3$color$fontSize$letterSpacing(B.C,m?16:8,2),o),B.eJ)],p),B.ay,B.cq),o,o),B.B,o,o,new A.dL(B.j,l,o,o,o,o,B.aG),o,k,o,o,o,o,1/0)}}
 A.agi.prototype={
 $0(){var s=this.a
 return s.f=!s.f},
@@ -78251,7 +78251,7 @@ s=A.w6(new A.jB(B.j.nb(0.2),B.cX),B.cY,B.yX,j)
 if(k.d)r=A.dP(A.kL(A.c([A.lT("Act I : Intro",B.ap,B.al,A.eZ().$3$color$fontSize$letterSpacing(B.C,h?48:28,3))],t.u6),3),B.ap)
 else r=B.c4
 q=A.dD(j,h?60:20,j)
-if(k.d)p=A.e8(A.dP(A.kL(A.c([A.lT("I build web apps, love to take pictures and edit.",B.hK,B.aU,A.eZ().$3$color$fontSize$height(B.x,h?46:16,1.1))],t.u6),1),B.a5),j,j)
+if(k.d)p=A.e8(A.dP(A.kL(A.c([A.lT("I build web apps, love to take and edit pictures.",B.hK,B.aU,A.eZ().$3$color$fontSize$height(B.x,h?46:16,1.1))],t.u6),1),B.a5),j,j)
 else p=B.c4
 o=A.dD(j,h?30:10,j)
 if(k.d)n=A.e8(A.dP(A.kL(A.c([A.lT("I trade cryptocurrencies",B.dk,B.aU,A.eZ().$3$color$fontSize$fontWeight(B.lg,h?46:16,B.aN))],t.u6),1),B.Cd),j,j)
