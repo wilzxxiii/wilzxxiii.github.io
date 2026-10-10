@@ -4,6 +4,7 @@
   <base href="/">
 
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="wilzxxiii">
 
@@ -24,7 +25,7 @@
     body {
       margin: 0;
       padding: 0;
-      background: #0A0A0A;
+      background: #301934;
       overflow: hidden;
     }
 
@@ -33,13 +34,16 @@
       top: 0; left: 0;
       width: 100vw;
       height: 100vh;
-      background: #5b5b5b;
+      background: #301934;
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
       z-index: 9999;
       transition: opacity 0.8s ease-out;
+      padding: 0 5vw;
+      box-sizing: border-box;
+      text-align: center;
     }
 
  
@@ -47,29 +51,32 @@
 
     .main-text {
       font-family: 'Lavishly Yours', cursive;
-      font-size: 72px;
+      font-size: clamp(2.5rem, 10vw, 4.5rem);
       color: #FFFFFF;
       /* text-shadow: 
         5px 5px 0 #00FFFF,
         -4px -4px 0 #FFFF00; */
-      letter-spacing: 6px;
+      letter-spacing: clamp(2px, 1vw, 6px);
       margin-bottom: 20px;
+      line-height: 1.1;
     }
 
     .sub-text {
       font-family: 'Lavishly Yours', cursive;
-      font-size: 36px;
+      font-size: clamp(1.5rem, 5vw, 2.25rem);
       color: #FFFFFF;
       opacity: 0.85;
       margin-top: 10px;
     }
 
     .status {
-      margin-top: 60px;
+      margin-top: clamp(30px, 8vh, 60px);
       font-family: 'Lacquer', system-ui;
-      font-size: 74px;
+      font-size: clamp(2rem, 9vw, 4.6rem);
       color: #FFFFFF;
       animation: pulse 1.8s infinite;
+      line-height: 1.2;
+      word-break: break-word;
     }
 
     @keyframes pulse {
@@ -82,7 +89,7 @@
   <div id="loading">
     <div class="main-text animate__animated animate__rotateInDownLeft">Wait a minute</div>
     <div class="sub-text animate__animated animate__rotateInDownRight">Painting my ...</div>
-    <div class="status animate__animated animate__bounce ">Masterpiece?</div>
+    <div class="status animate__animated animate__bounce ">Masterpiece [?]</div>
   </div>
 
   <script src="flutter_bootstrap.js" async></script>
